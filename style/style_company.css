@@ -1,0 +1,39 @@
+.red {
+    background-color: #9A1212;
+    transform: scale(1.5);
+    color: white;
+    margin-top: 20px;
+}
+.red a {
+    color: white;
+}
+.text_f {
+    font-size: 20px;
+    color: #9A1212;
+    margin-right: 30px;
+}
+.content {
+    position: relative;
+    width: 80vw;
+    height: 40vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+.text_k {
+    padding-left: 150px;
+    font-size: 32px;
+    text-align: right;
+
+}
+.setc {
+    position: absolute;
+    left: -40px;
+    top: 0;
+    width: 15%;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}

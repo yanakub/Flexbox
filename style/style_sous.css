@@ -1,0 +1,91 @@
+body {
+    background: white;
+}
+.button {
+    background: #F3F3F3;
+}
+.container {
+    display: flex;
+    padding-top: 20px;
+    position: relative;
+    justify-content: space-between;
+    margin-bottom: 80px;
+    height: 15vh;
+}
+.dkp {
+    position: relative;
+}
+.dkp img {
+    position: absolute;
+    margin-top: -20px;
+}
+.menu {
+    margin-top: 10px;
+    margin-right: 40px;
+    justify-content: center;
+}
+
+
+
+
+#product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -10vh;
+}
+.title1 {
+    font-size: 36px;
+}
+.title2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    background: #9A1212;
+    border-radius: 60px;
+    margin-top: 20px;
+    text-align: right;
+}
+.text {
+    width: 500px;
+    color: white;
+    font-size: 30px;
+    margin-left: 55px;
+    text-align: right;
+}
+.img1 {
+    position: relative;
+    width: 250px;
+    height: 100%;
+    background-image: url('../img/2.png');
+    background-size: cover;
+    background-position: center center;
+    border-radius: 82px;
+    margin-right: -25px;
+}
+
+
+
+.back-btn {
+    height: 60px;
+    width: 84px;
+    border-radius: 20px;
+    background: white;
+    margin-left: 50px;
+}
+.slide-left {
+    margin-top: 12px;
+    margin-left: 25px;
+}
+
+
+
+.list6 {
+    position: absolute;
+    right: 12vh;
+    bottom: 0;
+    height: 35vh;
+    width: 55vh;
+}
